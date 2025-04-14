@@ -45,10 +45,10 @@ src
                     ├── exception       # Custom exceptions and global error handling
 
 🧠 Future Enhancements
-Order Processing & Tracking
-Kafka for event-driven architecture
-Redis Cache Implementation
-Payment gateway integration
+- Order Processing & Tracking
+- Kafka for event-driven architecture
+- Redis Cache Implementation
+- Payment gateway integration
 
 
 👨‍💻 Author
