@@ -53,5 +53,5 @@ src
 
 👨‍💻 Author
 - Umang Kumar Upadhayay
-- Backend Engineer | Java | Spring Boot | Microservices
+Backend Engineer | Java | Spring Boot | Microservices
 
